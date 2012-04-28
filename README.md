@@ -1,7 +1,7 @@
 Keep Calm and Sync Again
 ========================
 
-*Keep Calm and Sync Again* is a derivative work of the famous *[Keep Calm and Carry On]* poster for [Gentoo Linux].
+*Keep Calm and Sync Again* is a derivative work of the famous *[Keep Calm and Carry On][]* poster for [Gentoo Linux][].
 
 [Keep Calm and Carry On]: http://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On
 [Gentoo Linux]: http://www.gentoo.org/
